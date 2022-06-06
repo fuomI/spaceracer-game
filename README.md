@@ -13,9 +13,9 @@ course "Unity Game Development".
 The scripts are the same scripts provided in course materials
 with little adjustments by myself.
 
-## Assets
+## Level & Assets
 
-[Racing game unity package](https://vw4.viope.com/content/cf6f18df0f169c88e526397983a7c966b9c2cf3c/Racing%20game%20package.unitypackage)
+I created the level using [racing game unity package.](https://vw4.viope.com/content/cf6f18df0f169c88e526397983a7c966b9c2cf3c/Racing%20game%20package.unitypackage)
 
 ## Screenshot
 
