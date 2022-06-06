@@ -26,7 +26,7 @@ with little adjustments by myself.
 - Use W, A, S, D to move the ship.
 - There is 2 laps in the race.
 
-My personal best is 0:58:59
+My personal best is 0:56:01
 
 ## How to run?
 
